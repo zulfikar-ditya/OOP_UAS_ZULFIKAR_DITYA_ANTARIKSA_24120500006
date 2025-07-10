@@ -45,8 +45,8 @@ oop-uas-campus/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd oop-uas-campus
+git clone https://github.com/zulfikar-ditya OOP_UAS_ZULFIKAR_DITYA_ANTARIKSA_24120500006.git
+cd OOP_UAS_ZULFIKAR_DITYA_ANTARIKSA_24120500006
 
 # Install dependencies
 bun install
@@ -54,6 +54,6 @@ bun install
 # Run file for task 1
 bun OOP_UAS1_ZULFIKAR_DITYA_ANTARIKSA_24120500006.ts
 
-# Run file for task 2
+# Run file for task 3
 bun OOP_UAS3_ZULFIKAR_DITYA_ANTARIKSA_24120500006.ts
 ```
